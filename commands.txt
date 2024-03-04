@@ -1,7 +1,0 @@
-git init
-git status
-git clone
-git remote -v
-git log --one line
-git log --one line --pretty
-
